@@ -1,6 +1,8 @@
 # ImageAnalytics_LinkedIn
 ## AI Australia Case Interview
 
+Demo Video : https://www.youtube.com/watch?v=iCPWvVV-Hj8
+
 ### linkedin_picture.ipynb
  - primary notebook
 
